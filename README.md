@@ -1,4 +1,4 @@
 # gcf-test
 
 
-GCF testing via webhook v2
+GCF testing via webhook v3 with slack integration
